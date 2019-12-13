@@ -1,0 +1,20 @@
+main: Beckstation.XMedia.Main
+name: XMedia
+version: 1.0
+author: Beckstation
+description: Adding social media commands and function to minecraft!
+
+commands:
+  Twitter:
+    permission: xmedia.twitter
+  Instagram:
+    permission: xmedia.instagram
+  Discord:
+    permission: xmedia.discord
+  Website:
+    permission: xmedia.website
+  XMedia:
+    permission: xmedia.reload
+    description: Admin command, reloads XMedia.
+  
+loadbefore: [zDiscord, DiscordSRV]

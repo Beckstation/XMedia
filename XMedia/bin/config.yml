@@ -1,0 +1,15 @@
+#Config file for XMedia.
+#Plugin Developed by Beckstation.
+#For support please visit our discord found on the spigot page.
+#Like the plugin? Please rate it!
+#
+#Version 1.0
+
+
+#Messages for each command. Use \n for a newline. 
+#Standard MC color codes accepted.
+messages:
+  twitter: "&cJoin our Twitter! \n&4www.yoururl.com"
+  instagram: "&cJoin our Instagram! \n&4www.yoururl.com"
+  discord: "&cJoin our Discord! \n&4www.yoururl.com"
+  website: "&cvisit our website! \n&4www.yoururl.com"
